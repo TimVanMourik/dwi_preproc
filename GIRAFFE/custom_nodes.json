@@ -6,9 +6,9 @@
         {
           "toolbox": "Nipype",
           "category": [
-            "Nipype",
+            "Nipype"
           ],
-          "name": "unrinng",
+          "name": "unring",
           "code": [
             {
             }
